@@ -1,0 +1,10 @@
+* lisp-binary
+
+A library to easily read and write complex binary formats.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/heegaiximephoomeeghahyaiseekh/lisp-binary.git   |
+| commit  | 711c38c  |
+| systems | lisp-binary |
+|---------+-------------------------------------------|
+
