@@ -4,6 +4,6 @@ A library to easily read and write complex binary formats.
 
 |---------+----------------------------------------------------------------------|
 | source  | git:https://github.com/heegaiximephoomeeghahyaiseekh/lisp-binary.git |
-| commit  | bf9d5fa                                                              |
+| commit  | 93bb902                                                              |
 | systems | lisp-binary                                                          |
 |---------+----------------------------------------------------------------------|
